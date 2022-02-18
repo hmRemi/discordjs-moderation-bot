@@ -22,14 +22,14 @@ config({
 
 client.on("ready", () => {
     console.log("-----------------------");
-    console.log("      Zen Network");
-    console.log("    Created by 4Remi");
+    console.log("    Discord Mod Bot");
+    console.log("    Created by ziue");
     console.log("-----------------------");
 
     client.user.setPresence({
         status: "dnd",
         game: {
-            name: "Zen Network by 4Remi",
+            name: "Discord Mod Bot by ziue",
             type: "WATCHING"
         }
     });
