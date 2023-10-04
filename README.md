@@ -1,4 +1,3 @@
 # Discord Moderation Bot
 
-A really old discord.js bot I made way back in the past.
-I would not recommend using this as it's really unstable and old.
+This is one of the first Discord bots I worked on, so it's relatively messy and not very reliable. I wouldn't recommend using it.
