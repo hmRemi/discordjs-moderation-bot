@@ -1,3 +1,3 @@
 # Discord Moderation Bot
 
-This is one of the first Discord bots I worked on, so it's relatively messy and not very reliable. I wouldn't recommend using it.
+This bot was developed using Discord.js v12. While it's an older project and the code may be a bit messy, it still functions well and can be a good starting point if you're new to bot development.
